@@ -1,0 +1,4 @@
+name: CustomDeathMsg
+version: '1.0'
+main: org.wayggstar.customDeathMsg.CustomDeathMsg
+api-version: '1.20'
